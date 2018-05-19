@@ -7,4 +7,4 @@ Analyzing the link between movies and Oscar wins/nominations. Do movies associat
 A Python analysis on whether the amount of wins/nominations certain actors and directors hold can be a good predictor of
 how a movie performs in the box office. Do these Oscar wins/nominations hold a candle to common predictors of box office success 
 such as production budget, genre, rating and time of release?      
-_View full presentation ![here](https://github.com/jnlevine23/Movies-Oscars/blob/master/movies_presentation.pdf "Presentation PDF")._
+_View full presentation [here](https://github.com/jnlevine23/Movies-Oscars/blob/master/movies_presentation.pdf "Presentation PDF")._
