@@ -1,4 +1,4 @@
-# Movies-Oscars
+# The DiCaprio Effect
 Analyzing the link between movies and Oscar wins/nominations. Do movies associated with a more decorated cast/director tend to perform better in terms of domestic gross total?    
 
 
